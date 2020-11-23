@@ -11,6 +11,7 @@ This code repository is used to record competitions in the field of computer vis
 | [ACCV 2020 Webly-Supervised Fine-Grained Recognition Challenge](https://www.cvmart.net/race/9917/base) |          [极市开发者平台](https://www.cvmart.net/)           | 20201130 | 网络图像监督条件下的细粒度级别图像识别问题                   |      |
 | [HuBMAP: Hacking the Kidney](https://www.kaggle.com/c/hubmap-kidney-segmentation/overview) |              [kaggle](https://www.kaggle.com/)               | 20210201 | 识别人体肾脏组织图像中的肾小球                               |      |
 | [NFL 1st and Future - Impact Detection](https://www.kaggle.com/c/nfl-impact-detection/overview) |              [kaggle](https://www.kaggle.com/)               | 20210104 | 参赛者需要开发一个计算机视觉模型，可以自动检测赛场上出现的头盔撞击情况 |      |
+| [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/) |              [kaggle](https://www.kaggle.com/)               | 20210218 | 该比赛的参赛者的任务是将每张木薯图像分为五类：四类是疾病，第五类表示健康的叶子。帮助农民快速识别出患病植物，在造成不可挽回的损失之前挽救农作物。 |      |
 
 
 
